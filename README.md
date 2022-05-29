@@ -1,4 +1,3 @@
-# Privelage_Escalation
 # Privilege Escalation Cheatsheet (Vulnhub)
 
 This cheatsheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples. It is not a cheatsheet for Enumeration using Linux Commands. Privilege escalation is all about proper enumeration. There are multiple ways to perform the same tasks. We have performed and compiled this list on our experience. 
